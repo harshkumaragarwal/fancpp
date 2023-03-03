@@ -1,0 +1,4 @@
+- Download ZIP files.
+- Run cmd "npm i" in root directory of project to install all the node packages.
+- Run cmd "node app.js".
+- Open localhost:3000 in web browser.
